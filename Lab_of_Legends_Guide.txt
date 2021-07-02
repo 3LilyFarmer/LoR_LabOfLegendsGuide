@@ -1,5 +1,7 @@
 Apparently since the lab of Legends update. Riot has made a lot of changes here and there. So I've copied the old list from  [St1rge](https://www.reddit.com/user/St1rge/)'s old [guide](https://www.reddit.com/r/LegendsOfRuneterra/comments/lc3bcj/lab_of_legends_starting_guide/) and will attempt to update it over time. Feel free to comment any inconsistencies and I'll try to include them as soon as I can, current list in progress:
 
+(alternative backup copy on github: https://github.com/3LilyFarmer/LoR_LabOfLegendsGuide)
+
 **PASSIVE POWERS:**
 
 Common:
@@ -14,21 +16,21 @@ Common:
 >  
 >**Crush** (Common): Allies have Overwhelm. (07/01)  
 >  
->**Dragon's Rage** (Common): When you summon a unit, grant it Fury. It is a Dragon. (04/04)  
+>**Dragon's Rage** (Common): When you summon a unit, grant it Fury. It is a Dragon. (07/01)  
 >  
->**Duelist** (Common): When you summon an ally, give it Challenger this round. (04/04)  
+>**Duelist** (Common): When you summon an ally, give it Challenger this round. (07/01)  
 >  
->**Empty Mind** (Common): When your hand is empty, draw 1. (04/04)  
+>**Empty Mind** (Common): When your hand is empty, draw 1. (07/01)  
 >  
 >**Endurance** (Common): When an ally survives damage, grant it +1/+1. (07/01)  
 >  
->**Enfeebling Strike** (Common): When you damage an enemy, reduce its Power by the damage dealt (\*affects your minions and spells, like the icon suggests it works well with Quick Attack) (04/04)  
+>**Enfeebling Strike** (Common): When you damage an enemy, reduce its Power by the damage dealt (\*affects your minions and spells, like the icon suggests it works well with Quick Attack) (07/01)  
 >  
 >**Fast Deal** (Common): Round Start: Draw 1 and give it Fleeting. When you discard a card, shuffle a copy into your deck. (04/04)  
 >  
 >**Flexible Game Plan** (Common): Start of Game: Draw 2. (07/01)  
 >  
->**Higher Education** (Common): When you draw a card, give allies +1/+0 this round. (04/04)  
+>**Higher Education** (Common): When you draw a card, give allies +1/+0 this round. (07/01)  
 > 
 >**New Student** (Common): Start of Game: Summon Sparring Student. (07/01)  
 >
@@ -40,47 +42,63 @@ Common:
 >
 >**Thieves' Tools** (Common): When allies attack, Nab 1. (07/01)  
 >  
->**Wild Inspiration** (Common): your created spells cost 1 less. (04/04)
+>**Wild Inspiration** (Common): your created cards cost 1 less.["spells" -> "cards"?] (07/01)
 
 Rare:
 
+>**Domination** (Rare): Round start: Rally. (07/01)  
+>  
+>**Grit** (Rare)**:** Allies have "Attack: Raise my Power to match my Health." (07/01)  
+>
+>**Hold Them Off** (Rare)**:** Round Start: Frostbite the strongest enemy this round (07/01)  
+>    
+>**Immortality** (Rare): Start of Game: Heal your Nexus 10. (07/01)  
+>
 >**Lie in Wait** (Rare): Allies everywhere that cost 3 or less are Lurkers and have Lurk. (07/01)  
-> 
->**The Best Defense** (Rare): Allies have "Attack: Raise my Health to match my Power". (04/04)  
 >  
->**Domination** (Rare): Round start: Rally. (04/04)  
+>**Slow But Steady** (Rare): When you cast a slow spell, cast it again onto the same targets. (07/01)  
+>
+>**Sorcery** (Rare): Round Start: Refill your spell mana. (07/01)  
 >  
->**Grit** (Rare)**:** Allies have "Attack: Raise my Power to match my Health." (04/04)  
->  
->**Immortality** (Rare): Start of Game: Heal your Nexus 10. (04/04)  
->  
->**Sorcery** (Rare): Round Start: Refill your spell mana. (04/04)  
->  
->**Spellslinger** (Rare): your spells cost 1 less. (04/04)  
->  
+>**Spellslinger** (Rare): your spells cost 1 less. (07/01)  
+>
+>**Terraforming** (Rare): When you summon an ally, grant it a random keyword. (07/01)
+>    
+>**The Best Defense** (Rare): Allies have "Attack: Raise my Health to match my Power". (07/01)  
+>
 >**Trifarian Might** (Rare): \~When you play a unit with 5 or more Power, it strikes the Weakest enemy. (04/04)
-
-&#x200B;
+>  
+>**Vanguard Lookout** (Rare): Game Start: Summon 2 Vanguard Lookouts. (07/01)
+>  
+>**Welcome Gifts** (Rare): When you summon an ally, grant it a random keyword. (07/01)
 
 Epic:
 
->**Black Market Discount** (Epic): Round End: Reduce the cost of your most expensive card in your hand by 1. (04/04)  
+>**Advanced Preparations** (Epic): Start of Game: Create an Ancient Preparations in hand. Ally landmark completion effects activate twice. (07/01)  
 >  
->**Can't Stop; Won't Stop** (Epic): Allied buffs (except Barrier) are permanent. (04/04)  
+>**Black Market Discount** (Epic): Round End: Reduce the cost of your most expensive card in your hand by 1. (07/01)  
 >  
->**Evolution** (Epic): Allies have +1/+1 for each keyword they have (\*really fantastic with Champions who were given Items). (04/04)  
+>**Can't Stop; Won't Stop** (Epic): Allied buffs (except Barrier) are permanent. (07/01)  
 >  
->**Lil' Buddies** (Epic): Round Start: Summon a random 1 cost Poro (surprisingly good, a little chip damage + constant stream of blockers). (04/04)  
+>**Evolution** (Epic): Allies have +1/+1 for each keyword they have (\*really fantastic with Champions who were given Items). (07/01)  
 >  
->**Manaflow** (Epic): Start of Game: Get an empty mana gem. (04/04)  
+>**Feral Senses** (Epic): Round Start: Create a Fleeting Feral Prescience in hand (\*Feral Prescience [Burst]: Predict). (07/01)  
 >  
->**Nature's Revenge** (Epic): When you gain attack token, summon a Sapling (\*insane with the Hecarim starting deck. Procs both Barkbeast and Shark Chariot). (04/04)  
+>**Lil' Buddies** (Epic): Round Start: Summon a random 1 cost Poro (surprisingly good, a little chip damage + constant stream of blockers). (07/01)  
 >  
->**Out the Gates** (Epic): Start of the Game: Summon a 2 cost unit from your deck. (04/04)  
+>**Manaflow** (Epic): Start of Game: Get an empty mana gem. (07/01)  
 >  
->**Share the Bounty** (Epic): When you target an ally with a single-target spell, copy it on your weakest ally. (04/04)  
+>**Nature's Revenge** (Epic): When you gain attack token, summon a Sapling (\*insane with the Hecarim starting deck. Procs both Barkbeast and Shark Chariot). (07/01)  
 >  
->**Yipp's Genius** (Epic): When you summon a 1 cost unit, grant it +2/+2. (04/04)
+>**Out the Gates** (Epic): Start of the Game: Summon a 2 cost unit from your deck. (07/01)  
+>  
+>**Rockbear Den** (Epic): Start of Game: Summon a Hibernating Rockbear. When an ally landmark counts down to 0, create a Hibernating Rockbear in hand. (07/01)  
+>  
+>**Share the Bounty** (Epic): When you target an ally with a single-target spell, copy it on your weakest ally. (07/01)  
+>  
+>**Sharing is Caring** (Epic): When you summon an ally, grant its keywords to all allies. (07/01)  
+>  
+>**Yipp's Genius** (Epic): When you summon a 1 cost unit, grant it +2/+2. (07/01)
 
 &#x200B;
 
