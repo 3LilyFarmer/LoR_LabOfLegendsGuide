@@ -62,7 +62,7 @@ Rare:
 >  
 >**Spellslinger** (Rare): your spells cost 1 less. (07/01)  
 >
->**Terraforming** (Rare): When you summon an ally, grant it a random keyword. (07/01)
+>**Terraforming** (Rare): Start of Game: Summon a random landmark from your deck. (07/01)
 >    
 >**The Best Defense** (Rare): Allies have "Attack: Raise my Health to match my Power". (07/01)  
 >
