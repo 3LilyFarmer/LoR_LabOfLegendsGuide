@@ -1,0 +1,389 @@
+Apparently since the lab of Legends update. Riot has made a lot of changes here and there. So I've copied the old list from  [St1rge](https://www.reddit.com/user/St1rge/)'s old [guide](https://www.reddit.com/r/LegendsOfRuneterra/comments/lc3bcj/lab_of_legends_starting_guide/) and will attempt to update it over time. Feel free to comment any inconsistencies and I'll try to include them as soon as I can, current list in progress:
+
+**PASSIVE POWERS:**
+
+Common:
+
+>**Battlefield Training** (Common): Round Start: Grant the Weakest ally +1/+1. (07/01)  
+>
+>**Bouncing Blades** (Common): Round Start: Create a Fleeting Blade's Edge in hand. (07/01)  
+>
+>**Clock Setter** (Common): Start of Game: Create 4 Time Bombs in your deck. (07/01)  
+> 
+>**Counterfeit Production** (Common): Round Start: Create a Fleeting 0 cost Counterfeit Copies in hand. (07/01)  
+>  
+>**Crush** (Common): Allies have Overwhelm. (07/01)  
+>  
+>**Dragon's Rage** (Common): When you summon a unit, grant it Fury. It is a Dragon. (04/04)  
+>  
+>**Duelist** (Common): When you summon an ally, give it Challenger this round. (04/04)  
+>  
+>**Empty Mind** (Common): When your hand is empty, draw 1. (04/04)  
+>  
+>**Endurance** (Common): When an ally survives damage, grant it +1/+1. (07/01)  
+>  
+>**Enfeebling Strike** (Common): When you damage an enemy, reduce its Power by the damage dealt (\*affects your minions and spells, like the icon suggests it works well with Quick Attack) (04/04)  
+>  
+>**Fast Deal** (Common): Round Start: Draw 1 and give it Fleeting. When you discard a card, shuffle a copy into your deck. (04/04)  
+>  
+>**Flexible Game Plan** (Common): Start of Game: Draw 2. (07/01)  
+>  
+>**Higher Education** (Common): When you draw a card, give allies +1/+0 this round. (04/04)  
+> 
+>**New Student** (Common): Start of Game: Summon Sparring Student. (07/01)  
+>
+>**Raiding Party** (Common): When you damage the enemy nexus, grant the top ally in your deck +1/+1. (07/01)  
+>  
+>**Rush Them Down** (Common): When you summon an ally give it +1/+1 this round. (07/01)  
+>  
+>**Seat of Power** (Common): Start of Game: Summon Emperor's Dais. (07/01)  
+>
+>**Thieves' Tools** (Common): When allies attack, Nab 1. (07/01)  
+>  
+>**Wild Inspiration** (Common): your created spells cost 1 less. (04/04)
+
+Rare:
+
+>**Lie in Wait** (Rare): Allies everywhere that cost 3 or less are Lurkers and have Lurk. (07/01)  
+> 
+>**The Best Defense** (Rare): Allies have "Attack: Raise my Health to match my Power". (04/04)  
+>  
+>**Domination** (Rare): Round start: Rally. (04/04)  
+>  
+>**Grit** (Rare)**:** Allies have "Attack: Raise my Power to match my Health." (04/04)  
+>  
+>**Immortality** (Rare): Start of Game: Heal your Nexus 10. (04/04)  
+>  
+>**Sorcery** (Rare): Round Start: Refill your spell mana. (04/04)  
+>  
+>**Spellslinger** (Rare): your spells cost 1 less. (04/04)  
+>  
+>**Trifarian Might** (Rare): \~When you play a unit with 5 or more Power, it strikes the Weakest enemy. (04/04)
+
+&#x200B;
+
+Epic:
+
+>**Black Market Discount** (Epic): Round End: Reduce the cost of your most expensive card in your hand by 1. (04/04)  
+>  
+>**Can't Stop; Won't Stop** (Epic): Allied buffs (except Barrier) are permanent. (04/04)  
+>  
+>**Evolution** (Epic): Allies have +1/+1 for each keyword they have (\*really fantastic with Champions who were given Items). (04/04)  
+>  
+>**Lil' Buddies** (Epic): Round Start: Summon a random 1 cost Poro (surprisingly good, a little chip damage + constant stream of blockers). (04/04)  
+>  
+>**Manaflow** (Epic): Start of Game: Get an empty mana gem. (04/04)  
+>  
+>**Nature's Revenge** (Epic): When you gain attack token, summon a Sapling (\*insane with the Hecarim starting deck. Procs both Barkbeast and Shark Chariot). (04/04)  
+>  
+>**Out the Gates** (Epic): Start of the Game: Summon a 2 cost unit from your deck. (04/04)  
+>  
+>**Share the Bounty** (Epic): When you target an ally with a single-target spell, copy it on your weakest ally. (04/04)  
+>  
+>**Yipp's Genius** (Epic): When you summon a 1 cost unit, grant it +2/+2. (04/04)
+
+&#x200B;
+
+**ITEMS (Champions and Followers)**
+
+Common
+
+>**Banshee's Veil (Common):** Spellshield  
+>  
+>The Brutalizer (Common): Overwhelm  
+>  
+>Chain Vest (Common): Tough  
+>  
+>Doran's Blade (Common): +1/+1  
+>  
+>Giant's Belt (Common): +0/+2  
+>  
+>Phantom Dancer (Common): Quick Attack  
+>  
+>Philosopher's Stone: when I'm summoned, draw 1.  
+>  
+>Pickaxe (Common): +2/+0  
+>  
+>Skirmisher's Sabre (Common): Challenger  
+>  
+>Sterak's Gage (Common): Fury
+
+Rare
+
+>Ancient Coin (Rare): -1 Cost  
+>  
+>**Archangel's Staff (Rare):** When I'm summoned, refill your mana equal to my cost  
+>  
+>**Avarice Blade (Rare):** Attack: Nab 1.  
+>  
+>Frozen Mallet (Rare?): +4/+4, costs 2 more  
+>  
+>**Phage (Rare):** \+2/+2  
+>  
+>Spirit of the Spectral Wraith (Rare): +3/+3, but Ephemeral  
+>  
+>Twin Shadows (Rare): When I'm summoned, summon an Ephemeral copy of me  
+>  
+>Warmogs Armor (Rare): Regeneration
+
+Epic
+
+>**Hunter's Machete (Epic):** Scout  
+>  
+>**Lich Bane (Epic):** When you cast a spell, grant me +1/+1.  
+>  
+>**Ninja Tabi (Epic):** Elusive  
+>  
+>**Nomad's Medallion (Epic):** \-2 cost  
+>  
+>Spirit Stone (Epic): When I'm summoned, create a Fleeting copy of me in hand\* (\*Anivia's Egg will proc this, giving a Harsh Winds)  
+>  
+>Stark's Fervor (Epic): Last Breath: Rally
+
+**ITEMS (Spells)**
+
+>Elixir of Skill (Common): When cast, draw 1.  
+>  
+>Health Potion (Common): When cast, heal your Nexus 3  
+>  
+>Mana Potion (Common): -1 cost  
+>  
+>Poro Snax (Common): When cast, summon a random 1 cost Poro.  
+>  
+>Elixir of Sorcery (Rare): When cast, cast me again onto the same targets.  
+>  
+>**Tear of the Goddess (Rare):** \-2 cost  
+>  
+>Wooglet's Witchcap (Rare): When cast, shuffle 2 copies of me into your deck. They cost 1.  
+>  
+>**Chalice of Harmony (Epic):** \-3 Cost  
+>  
+>Spellbinder (Epic): When you cast a spell, reduce my cost by 1
+
+**ITEMS (Landmarks)**
+
+>Zz'Rot Portal (Rare): When I'm summoned, summon a copy of me.
+
+**OPPONENTS**
+
+*Warning:* Players have reported that neither you the player or your opponents (at least at the Foundry battle) do not lose the game when you run out of cards.
+
+>Normal
+>
+>**Tier 1:** Each opponent starts with 10 Health in Tier 1.
+>
+>>**Spiders**  
+>>  
+>>Power - Spiders Everywhere: Round Start: Create a Fleeting Spiderling in your hand.  
+>>  
+>>Reward - Support Champion (champ + 2 other cards, 2 copies of each added)  
+>>  
+>>**Mistwraiths**  
+>>  
+>>Power - Dead Rise: When an ally Mistwraith dies, create a copy in deck.  
+>>  
+>>Reward - Champion (with Item) + Reinforcements (no Item)  
+>>  
+>>Warning, due to their Power and your small starting deck, you can be decked if you trade evenly with them. They have removal spells like Vengeance and Withering Wail that aid them in stalling.  
+>>  
+>>**Boss - Thresh**  
+>>  
+>>Power - Damnation: Start with Vaults of Helia. When Thresh levels up, create 3 Shadow Isles champions in your deck. (Note: this effect doesn't appear to be able to sacrifice him)  
+>>  
+>>Reward - Passive Power + Spell Reinforcements (no Item)  
+>>  
+>>Warning, Thresh packs Ruination
+>
+>**Tier 2** Each opponent starts with 20 Health in Tier 2.
+>
+>>**Hunters**  
+>>  
+>>Power - Frozen Earth: Round Start: Give the Weakest enemy Vulnerable this round  
+>>  
+>>Reward - Mixed Reinforcements (with Item) \[x2\]  
+>>  
+>>**Scars**  
+>>  
+>>Power - Proving Grounds: Start with Scargrounds  
+>>  
+>>Reward - Spell Reinforcements (with Item) + Minion Reinforcements (with Item)  
+>>  
+>>**Boss: Sejuani**  
+>>  
+>>Power - Endure: When you summon an ally, grant it +1/+1  
+>>  
+>>Reward - Passive Power + Champion (with Item)
+>
+>**Tier 3** Each opponent starts with 30 Health in Tier 3.
+>
+>>**Foundry (Sump Dredger)**  
+>>  
+>>Power - Working Overtime: Start with Hexcore Foundry. Your cards cost 1 less.  
+>>  
+>>Reward; Mixed Reinforcements (fx)  
+>>  
+>>Warning, easy to get a full hand and burn needed cards instead of drawing them. Make sure to mulligan for cheap costing cards.  
+>>  
+>>**Guard Bots**  
+>>  
+>>Power - Iterative Enhacenments (Epic): Round start: summon a turret  
+>>  
+>>Reward - Mixed Reinforcements: Select a card in your deck - add an item and an additional copy to your deck  
+>>  
+>>Warning, they pack Trueshot Barrage and late game summon 8/8 bots every round. Definitely a fight you want to finish quickly.  
+>>  
+>>**Boss: Viktor:**  
+>>  
+>>Power - Beyond the Flesh: Allies have +1/+1 for each keyword they have. (excluding Augment?)  
+>>  
+>>Reward - New Player Icon (dependent on which starting Champion you chose)  
+>>  
+>>Warning, his deck is like his card - if you don’t remove his minions each of them can snowball quickly.
+
+&nbsp;
+
+>Hard (work in progress)
+>
+>**Tier 1:** Each opponent starts with 15 Health in Tier 1.
+>
+>>**Spiders**  
+>>  
+>>Power - Spiders Everywhere: Round Start: Create a Fleeting Spiderling in your hand.  
+>>  
+>>Reward - Support Champion (champ + 2 other cards, 2 copies of each added)  
+>>  
+>>**Mistwraiths**  
+>>  
+>>Power - Dead Rise: When an ally Mistwraith dies, create a copy in deck.  
+>>  
+>>Reward - Champion (with Item) + Reinforcements (no Item)  
+>>  
+>>Warning, due to their Power and your small starting deck, you can be decked if you trade evenly with them. They have removal spells like Vengeance and Withering Wail that aid them in stalling.  
+>>  
+>>**Boss - Thresh**  
+>>  
+>>Power - Damnation: Start with Vaults of Helia. When Thresh levels up, create 3 Shadow Isles champions in your deck. (Note: this effect doesn't appear to be able to sacrifice him)  
+>>  
+>>Reward - Passive Power + Spell Reinforcements (no Item)  
+>>  
+>>Warning, Thresh packs Ruination
+>
+>**Tier 2** Each opponent starts with 20 Health in Tier 2.
+>
+>>**Hunters**  
+>>  
+>>Power - Frozen Earth: Round Start: Give the Weakest enemy Vulnerable this round  
+>>  
+>>Reward - Mixed Reinforcements (with Item) \[x2\]  
+>>  
+>>**Scars**  
+>>  
+>>Power - Proving Grounds: Start with Scargrounds  
+>>  
+>>Reward - Spell Reinforcements (with Item) + Minion Reinforcements (with Item)  
+>>  
+>>**Boss: Sejuani**  
+>>  
+>>Power - Endure: When you summon an ally, grant it +1/+1  
+>>  
+>>Reward - Passive Power + Champion (with Item)
+>
+>**Tier 3** Each opponent starts with 30 Health in Tier 3.
+>
+>>**Foundry (Sump Dredger)**  
+>>  
+>>Power - Working Overtime: Start with Hexcore Foundry. Your cards cost 1 less.  
+>>  
+>>Reward; Mixed Reinforcements (fx)  
+>>  
+>>Warning, easy to get a full hand and burn needed cards instead of drawing them. Make sure to mulligan for cheap costing cards.  
+>>  
+>>**Guard Bots**  
+>>  
+>>Power - Iterative Enhacenments (Epic): Round start: summon a turret  
+>>  
+>>Reward - Mixed Reinforcements: Select a card in your deck - add an item and an additional copy to your deck  
+>>  
+>>Warning, they pack Trueshot Barrage and late game summon 8/8 bots every round. Definitely a fight you want to finish quickly.  
+>>  
+>>**Boss: Viktor:**  
+>>  
+>>Power - Beyond the Flesh: Allies have +1/+1 for each keyword they have. (excluding Augment?)  
+>>  
+>>Reward - New Player Icon (dependent on which starting Champion you chose)  
+>>  
+>>Warning, his deck is like his card - if you don’t remove his minions each of them can snowball quickly.
+
+&nbsp;
+
+>Legendary (work in progress)
+>
+>**Tier 1:** Each opponent starts with 10 Health in Tier 1.
+>
+>>**Spiders**  
+>>  
+>>Power - Spiders Everywhere: Round Start: Create a Fleeting Spiderling in your hand.  
+>>  
+>>Reward - Support Champion (champ + 2 other cards, 2 copies of each added)  
+>>  
+>>**Mistwraiths**  
+>>  
+>>Power - Dead Rise: When an ally Mistwraith dies, create a copy in deck.  
+>>  
+>>Reward - Champion (with Item) + Reinforcements (no Item)  
+>>  
+>>Warning, due to their Power and your small starting deck, you can be decked if you trade evenly with them. They have removal spells like Vengeance and Withering Wail that aid them in stalling.  
+>>  
+>>**Boss - Thresh**  
+>>  
+>>Power - Damnation: Start with Vaults of Helia. When Thresh levels up, create 3 Shadow Isles champions in your deck. (Note: this effect doesn't appear to be able to sacrifice him)  
+>>  
+>>Reward - Passive Power + Spell Reinforcements (no Item)  
+>>  
+>>Warning, Thresh packs Ruination
+>
+>**Tier 2** Each opponent starts with 20 Health in Tier 2.
+>
+>>**Hunters**  
+>>  
+>>Power - Frozen Earth: Round Start: Give the Weakest enemy Vulnerable this round  
+>>  
+>>Reward - Mixed Reinforcements (with Item) \[x2\]  
+>>  
+>>**Scars**  
+>>  
+>>Power - Proving Grounds: Start with Scargrounds  
+>>  
+>>Reward - Spell Reinforcements (with Item) + Minion Reinforcements (with Item)  
+>>  
+>>**Boss: Sejuani**  
+>>  
+>>Power - Endure: When you summon an ally, grant it +1/+1  
+>>  
+>>Reward - Passive Power + Champion (with Item)
+>
+>**Tier 3** Each opponent starts with 30 Health in Tier 3.
+>
+>>**Foundry (Sump Dredger)**  
+>>  
+>>Power - Working Overtime: Start with Hexcore Foundry. Your cards cost 1 less.  
+>>  
+>>Reward; Mixed Reinforcements (fx)  
+>>  
+>>Warning, easy to get a full hand and burn needed cards instead of drawing them. Make sure to mulligan for cheap costing cards.  
+>>  
+>>**Guard Bots**  
+>>  
+>>Power - Iterative Enhacenments (Epic): Round start: summon a turret  
+>>  
+>>Reward - Mixed Reinforcements: Select a card in your deck - add an item and an additional copy to your deck  
+>>  
+>>Warning, they pack Trueshot Barrage and late game summon 8/8 bots every round. Definitely a fight you want to finish quickly.  
+>>  
+>>**Boss: Viktor:**  
+>>  
+>>Power - Beyond the Flesh: Allies have +1/+1 for each keyword they have. (excluding Augment?)  
+>>  
+>>Reward - New Player Icon (dependent on which starting Champion you chose)  
+>>  
+>>Warning, his deck is like his card - if you don’t remove his minions each of them can snowball quickly.
